@@ -16,10 +16,5 @@ placeholder
 placeholder
 ```
 
-## Acknowledgements
-Special thanks to [Tim Ruscica](https://github.com/techwithtim) for providing tutorials and the project idea.
-
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
