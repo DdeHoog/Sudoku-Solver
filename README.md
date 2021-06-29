@@ -1,29 +1,25 @@
-# Foobar
+# Sudoku Solver
 
-Foobar is a Python library for dealing with word pluralization.
+Sudoku Solver is a Python project which attempts to use a backtracking algorithm to solve a Sudoku board. 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+placeholder
 
 ```bash
-pip install foobar
+placeholder
 ```
 
 ## Usage
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+placeholder
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Acknowledgements
+Special thanks to [Tim Ruscica](https://github.com/techwithtim) for providing tutorials and the project idea.
 
-Please make sure to update tests as appropriate.
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
