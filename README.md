@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Sudoku Solver is a Python project which attempts to use a backtracking algorithm to solve a Sudoku board. 
+Sudoku Solver is a Python project which attempts to use a recursive backtracking algorithm to solve a Sudoku board. 
 
 ## Installation
 
@@ -13,7 +13,7 @@ placeholder
 ## Usage
 
 ```python
-placeholder
+solve(sudokuBoard1)  # Boardnames are subject to change
 ```
 
 ## License
