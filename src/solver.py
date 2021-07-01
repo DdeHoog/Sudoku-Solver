@@ -1,3 +1,4 @@
+
 sudokuBoard1 = [
     [7,8,0,4,0,0,1,2,0],
     [6,0,0,0,7,5,0,0,9],
@@ -13,6 +14,7 @@ sudokuBoard1 = [
 HORIZONTAL_LINE = "---------------------"
 VERTICAL_LINE = "| "
 
+#generate boars in different class then use them here.
 
 def solve(board):
 
@@ -79,6 +81,7 @@ def print_board(board):
 
 
 def find_empty(board):
+
     for i in range(len(board)):
         for j in range(len(board[0])):
             if board[i][j] == 0:
